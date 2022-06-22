@@ -1,0 +1,41 @@
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.boot-logo {
+    height: 6vmin;
+    pointer-events: none;
+}
+
+.node-logo {
+    height: 7vmin;
+    pointer-events: none;
+    margin-left: 15px;
+}
+
+.footer {
+    text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+  .boot-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+  .node-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
