@@ -1,0 +1,59 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "htmlId": "flush-headingTwo",
+            "htmlId2": "flush-collapseTwo",
+            "htmlId3": "#flush-collapseTwo",
+            "title": "🖼️ Il Futurismo",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ajLgocPE76sSLhfnXxtvFwHaFU%26pid%3DApi&f=1",
+            "img2": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.I-uoB6MNgctZX-RYuWzjzgHaLT%26pid%3DApi&f=1",
+            "height": 200,
+            "content": "Città futurista, pittura futurista"
+        },
+        {
+            "id": 1,
+            "htmlId": "flush-headingThree",
+            "htmlId2": "flush-collapseThree",
+            "htmlId3": "#flush-collapseThree",
+            "title": "🚗 La Belle Époque",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.N-90ablLIWkSkstRMqbQmQHaDt%26pid%3DApi&f=1",
+            "img2": "",
+            "height": 200,
+            "content": "Benessere della popolazione, fiducia nel progresso"
+        },
+        {
+            "id": 2,
+            "htmlId": "flush-headingFive",
+            "htmlId2": "flush-collapseFive",
+            "htmlId3": "#flush-collapseFive",
+            "title": "🌳 Il verismo",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.GKgzA-CIs4aMgwBq7FMYaQHaFy%26pid%3DApi&f=1",
+            "img2": "",
+            "height": 200,
+            "content": "Verga, il ciclo dei vinti"
+        },
+        {
+            "id": 3,
+            "htmlId": "flush-headingSix",
+            "htmlId2": "flush-collapseSix",
+            "htmlId3": "#flush-collapseSix",
+            "title": "🌍 L'impatto sul pianeta",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hjDQ5nqdhGgLntP41rOddwHaE8%26pid%3DApi&f=1",
+            "img2": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.xYHtxv6ykx4GmWZinECoWAHaE8%26pid%3DApi&f=1",
+            "height": 200,
+            "content": "Inquinamento ,riscaldamento globale, deforestazione"
+        },
+        {
+            "id": 4,
+            "htmlId": "flush-headingFour",
+            "htmlId2": "flush-collapseFour",
+            "htmlId3": "#flush-collapseFour",
+            "title": "🌿 Le nuove tecnologie",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.xret1VxkOzTdXvr77X49YQHaCE%26pid%3DApi&f=1",
+            "img2": "",
+            "height": 200,
+            "content": "Salvaguardia del pianeta, scienza biotech, energia sostenibile"
+        }
+    ]
+}
